@@ -1,0 +1,13 @@
+title = "My Awesome website"
+
+[author]
+name = "Naksatra Kumar Bailung"
+image = "static/images/self_portrait.png"
+headline = "A little mathematician who loves computers"
+bio = "AI/ML researcher who has too much interest in low-level programming and gaming"
+links = [
+      { twitter = "https://twitter.com/hatobbold" },
+      { github = "https://github.com/nukerty" },
+      { linkedin = "https://www.linkedin.com/in/naksatra-bailung-1baa3958" },
+      { email = "nkbailun@gmail.com" }
+]
