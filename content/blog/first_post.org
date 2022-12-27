@@ -1,0 +1,11 @@
+---
+title: "First_post"
+date: 2022-12-27T03:45:50+05:30
+---
+
+* First post
+
+This is the first post. I have based this website around hugo so I should be documenting whatever I have done here to correctly set it up like I did. [[https://nunocoracao.github.io/blowfish/][Blowfish]] looks nice to the website and setting it up around tailwind css seems alright. We also need to also setup a better theming later on when I get the chance to do so correctly.
+
+
+

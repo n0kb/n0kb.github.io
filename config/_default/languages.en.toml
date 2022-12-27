@@ -1,4 +1,5 @@
-title = "My Awesome website"
+title = "No Kilobytes"
+description = "n-kb blog"
 
 [author]
 name = "Naksatra Kumar Bailung"
@@ -11,3 +12,4 @@ links = [
       { linkedin = "https://www.linkedin.com/in/naksatra-bailung-1baa3958" },
       { email = "nkbailun@gmail.com" }
 ]
+

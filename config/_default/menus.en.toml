@@ -1,0 +1,9 @@
+[[main]]
+name = "CV"
+pageRef = "cv"
+weight = 1
+
+[[main]]
+name = "Blog"
+pageRef = "blog"
+weight = 10

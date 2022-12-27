@@ -2,11 +2,16 @@
 
 ** Things to keep in website
 
-1. Blogging
-2. Machine Learning Models
-3. Homework and Stuff
-4. Deadlines and Courseword
-5. Reading List
+1. Profile
+2. Research
+3. Blogging
+4. Publications
+5. Machine Learning Models
+6. Calendar
+7. Reading List
+8. Live ?
+9. CV
+10. Contact Me
 
    
 ** Blog

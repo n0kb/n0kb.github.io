@@ -1,0 +1,7 @@
+---
+title: "Curriculum Vitae"
+---
+
+[[academic_cv.pdf][Here]] is my Academic CV. Feel free to get a template org file from my github which was used to generate this.
+
+

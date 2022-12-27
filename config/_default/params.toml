@@ -1,1 +1,17 @@
-colorScheme = "Autumn"
+colorScheme = "autumn"
+enableSearch =  false
+mainSections = ["blog"]
+
+[homepage]
+layout = "hero"
+showRecent = true
+showRecentItems = 10
+showMoreLink = true
+showMoreLinkDest = "/blog"
+
+[article]
+showHero = true
+
+[footer]
+showAppearanceSwitcher = true
+

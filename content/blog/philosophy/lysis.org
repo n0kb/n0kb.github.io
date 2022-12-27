@@ -1,0 +1,44 @@
+---
+title: "Lysis"
+date: 2022-12-27T03:46:27+05:30
+draft: false
+tags: philosophy, plato, socrates, friendship
+---
+
+* An analysis on the text of lysis
+
+** A brief (butchered) overview on the text
+
+Socrates was walking around and he found Hippothales trying to invite him into a discussion with his friends. A little relucant Socrates joins in the discussion and later finds out s that the students there sing parises of him and other scholars. Meanwhile, Socrates find out Hippothales finds Lysis, son of Democrates, charming and that Hippothales constructs poems of love upon that topic. Socrates forbids him to sing no further praise as even if when he wins these songs will be considered poems of glory hoever in case the love is not reciprocated he will look like a fool. Hippothales asks Socrates on how to approach Lysis to which he obliges by going into a gambling house and setting up a discussion there. Lysis joins the discussion group with Menexenus, who is a student of Ctesippus, another scholar. (There is another dialogue with Menexenus). Menexenus has to depart immediately but will come back at a later moment. Socrates approaches Lysis with the question that if his parents love him and if they do why they do not allow him to ride a chariot on his own, while a slave is allowed to ride the chariot. The discussion leads onto them agreeing on the fact that knowledge leads to trust and therefore hapiness in ability to do things or to be trusted to do things.
+
+Socrates tries to show Hippothales that this is how you should approach your lover by treating them with authority, humbling them and tangling with their brains, however stops himself after seeing him excited and confused; and realising he would not have been happy by the callout refrained. Menexenus comes back and Lysis asks Socrates to say the same thing which he imparted onto him to Menexenus. Socrates asks Lysis to impart it as he had been listening intently to which Lysis agrees however asks Socrates to discuss more with them about other things to which he agrees. Socrates approaches the question of friendship in the later part of the dialogue.
+
+He starts with saying that he envies the frienship they have and that the acquistion of which he has a hard time to grasp around / reason around. He first begins with the point that lovers are friends, hoever one sided love will also be called friendship as one could like inanimate abstract things or something incapable of love back (gym, animals, money). There comes situations where the one has to perform something hateful to the loved one however one party may think it is out of love while the other might be inclined to keep animosity later on. This leads to there being enemity even in frienships and friendship in enmity as one could sing praises of the enemy. So people who love each other cannot be friends while enemies will remain enemies so we are stuck in a loop around.
+
+The next part uses the quote "Like attract like". Socrates supposes the usual divide of  good people and bad people. Bad people will befriend bad people however it is the tendency of bad people to make people get hurt. If a person is hurt by the actions of another they cannot remain friends, which implies bad people are never friends with bad people. He also argues that good people befriend good people, so *the good are friends*. Socrates doubts that friendship must come out of an initial requirement of deficiency, something to be had, in atleast the initial stages of the relation. _Can the like do any harm or good to the like which he could not do to himself or suffer anything from which he would not suffer himself ? And if neither can be of use to the other, how can they be loved by one another?_ This leads to good befriending good an absurdity as the deficiency is never present if good are okay with themselves. So *opposites attract* is proposed but immediately declined as an just man will not befriend the unjust or good person will not befriend a bad out of principle. So we insert neither good nor bad (NGNB) into the categories of people.
+
+#+NAME : Friendship among Categories
+#+CAPTION : Friendship among categories
+#+CUSTOM_ID : fac
+| Categories | Good                                | NGNB                                     | Bad                                      |
+|------------+-------------------------------------+------------------------------------------+------------------------------------------|
+| Good       | Cannot be friend due to sufficiency | Can be friends                           | Cannot be out of principle               |
+| NGNB       | Can be friends                      | Never discussed in the text              | Will cause harm, hurtful are not friends |
+| Bad        | Cannot be out of principle          | Will cause harm, hurtful are not friends | Hurtful are not friends                  |
+
+
+Socrates argues that good is the friend of the NGNB due to the lack of something and gives an example of the physician and the sick who needs tratment from the disease. So evil corrupts a good body leads them into NGNB state and there is where friendships are established and since by remaining in the presence of good, the evil is vanished from them, which leads to them being sufficient and not requiring the friendship. In cases where the NGNB tends to evil even in the presence of good), the good out of principle cannot befriend the evil so the frienship breaks down as well. So friendship is established for the reason of evil between good and the NGNB.
+
+Socrates later realises a fault in his line of reasoning saying that something is abashedly wrong as arguments are like men, pretenders. He argues that the friendship was established due to evil and we put value onto it. One must hold something really dear, due to which he can consider other objects that are related to the object really dear. He gives an example of a father who has a sick son (whom the father loves dearly) befriend medicine. The father befriends medicine for the sake of his son. He argues that a person befirends other to keep something dear or for the sake of something dear. In the absence of evil and desires, one could say that the requirement of friendship might be gone altogether. However they reealise that friendship remains even in such times, so friends are initially not made in the presence of evil, there must be something else. There must be something congenial in the personalities of the people that become friends. However since congenial should require likeness and we have proved like do not befriend we are back at the start again.
+
+Lysis and Menexenus were called back by their drunk tutors, who were managable a while back when they were sober. Socrates remarks to them that even though the age gap in between them, this talk about friendship has deepened their bonds and even though they might not be seen as friends they might well be.
+
+** Points of confusion
+
+1. Socrates explains the point of people not being allowed to do what they are freely able to do and link it to happiness and leads it to being reasoned for the lack of knowledge. Even though there are initial things which have progression steps, there are things which require that we are trying them head on first (e.g. horse riding, swimming). So in that case not allowing someone to do somethings falls apart as they might be hindered from gaining the required knowledge.
+2. Socrates never went forward with the NGNB befriending the NGNB dialogue with full effect. He assumes that due to disproving good-good and bad-bad he justifies that like-like pairs are never friends. There might be discrepancy in something which is bad in a person that could be fulfilled by another friend. This will lead to another slot [[Friendship among Categories]] being accessible and can make sense.
+3. The group realize that friendship has a divine attributes which exists even after evil is defeated. I would say that in case, where desires and evils are truly gone, there might be no requirement of friendship as everyone really would be self sufficient. The divine attribute of friendship is not further discussed upon and maybe can be found in the later texts
+
+   
+* Notes
+I'll try to make a habit to read some philosophy texts over the week and give a short summary over them like this.
