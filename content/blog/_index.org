@@ -1,0 +1,7 @@
+---
+title: "Blog"
+date: 2022-12-27T20:17:03+05:30
+draft: false
+---
+
+Here I post my blogs about AI, games and sometimes philosophy. Feel free to access the rss feed if you really want updates from a weird guy.

@@ -1,11 +1,11 @@
 ---
 title: "Lysis"
 date: 2022-12-27T03:46:27+05:30
-draft: false
 tags: philosophy, plato, socrates, friendship
+draft: false
 ---
 
-* An analysis on the text of lysis
+* An analysis on the text of Lysis
 
 ** A brief (butchered) overview on the text
 
