@@ -1,0 +1,12 @@
+---
+title: "Leetcode 754"
+date: 2022-12-31T08:01:30+05:30
+draft: false
+---
+
+I'll try to only post up the ones that I find technically challenging or interesting for me.
+
+* Solution
+
+The question asks for a way to get to a target number by using a sequence of consecutive integers and only using addition or subtraction and report the minimum length of the sequence required. I thought of first using BFS but it is lengthy. Next thoughht was to convert the question mathematically and allow some room for change. It was easy however the time complexity might be even lowered technically, I am not sure how but I'll need to read into this problem further. Anyway here is the [[https://leetcode.com/problems/reach-a-number/solutions/2973506/search-down-up/][solution]].
+
